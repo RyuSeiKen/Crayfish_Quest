@@ -37,10 +37,12 @@ public class GameManager : MonoBehaviour
 		{
 			TakeDamage();
 		}
+
 //		else if(room <= 0.50f)
 //		{
 //			FindChest();
 //		}
+
 		else
 		{
 			FindMoney ();

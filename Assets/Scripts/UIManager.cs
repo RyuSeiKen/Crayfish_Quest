@@ -10,19 +10,6 @@ public class UIManager : MonoBehaviour {
     public bool Player3_Continue;
     public bool Player4_Continue;
 
-
-    // Use this for initialization
-    void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-       
-
-	}
-
     public void Continuer(int Player)
     {
         switch (Player)
